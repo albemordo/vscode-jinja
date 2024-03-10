@@ -31,7 +31,7 @@
 				"aliases": [
 					"Jinja"
 				],
-                "extensions": [".j2"],
+                "extensions": [".j2", ".jinja"],
 				"configuration": "./jinja.configuration.json"
 			}
 		],
